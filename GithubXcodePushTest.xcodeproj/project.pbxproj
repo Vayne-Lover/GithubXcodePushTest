@@ -12,6 +12,7 @@
 		EED0FC021CD468A1006B4EBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EED0FC001CD468A1006B4EBD /* Main.storyboard */; };
 		EED0FC041CD468A1006B4EBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EED0FC031CD468A1006B4EBD /* Assets.xcassets */; };
 		EED0FC071CD468A1006B4EBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EED0FC051CD468A1006B4EBD /* LaunchScreen.storyboard */; };
+		EED0FC0F1CD47172006B4EBD /* 屏幕快照 2016-04-28 22.02.32.png in Resources */ = {isa = PBXBuildFile; fileRef = EED0FC0E1CD47172006B4EBD /* 屏幕快照 2016-04-28 22.02.32.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EED0FC031CD468A1006B4EBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EED0FC061CD468A1006B4EBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EED0FC081CD468A1006B4EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EED0FC0E1CD47172006B4EBD /* 屏幕快照 2016-04-28 22.02.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "屏幕快照 2016-04-28 22.02.32.png"; path = "../../../../屏幕快照 2016-04-28 22.02.32.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				EED0FBFE1CD468A1006B4EBD /* ViewController.swift */,
 				EED0FC001CD468A1006B4EBD /* Main.storyboard */,
 				EED0FC031CD468A1006B4EBD /* Assets.xcassets */,
+				EED0FC0E1CD47172006B4EBD /* 屏幕快照 2016-04-28 22.02.32.png */,
 				EED0FC051CD468A1006B4EBD /* LaunchScreen.storyboard */,
 				EED0FC081CD468A1006B4EBD /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EED0FC071CD468A1006B4EBD /* LaunchScreen.storyboard in Resources */,
+				EED0FC0F1CD47172006B4EBD /* 屏幕快照 2016-04-28 22.02.32.png in Resources */,
 				EED0FC041CD468A1006B4EBD /* Assets.xcassets in Resources */,
 				EED0FC021CD468A1006B4EBD /* Main.storyboard in Resources */,
 			);
@@ -286,6 +290,7 @@
 				EED0FC0D1CD468A1006B4EBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
